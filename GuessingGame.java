@@ -1,18 +1,12 @@
 /*  
     Name: Price Howard
-    Student ID: 00652324
     Email: phoward1@una.edu
     Course Information: <CIS 315-02>
     Program Source File Name:  <GuessingGame.java>
     Programming Assignment:  #3 
     Program Description: The program is a game that the user guesses a random number and the game will tell if its higher or lower until the user guesses the number.
     References: N/A
-    Due Date: 11/11/2020 	 
- 
-   In keeping with the honor code policies of the University of University of North Alabama, the School of Business, and the Department of Computer Science, I affirm that I have neither given nor received on this programming assignment. This assignment
-represents my individual, original effort.
- ... My Signature is on File.
-         
+    Due Date: 11/11/2020
 */ 
 
 import java.util.Random;
